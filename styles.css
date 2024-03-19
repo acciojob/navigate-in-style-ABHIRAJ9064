@@ -1,13 +1,15 @@
-nav {
+.container {
   background-color: #D3D3D3;
   padding: 10px;
 }
-nav ul {
+ ul {
+	 display: flex;
+	 margin: 0;
   list-style: none;
   padding: 0;
 }
 
-nav li {
+li {
   display: inline;
   margin-right: 1rem;
 }
